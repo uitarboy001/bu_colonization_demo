@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Apache
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 8
+  isEuropean: 0
+  flagIcon: {fileID: 3649380256734017498, guid: 460656ad2dbb89c44b4cc1376df69523, type: 3}
+  shieldIcon: {fileID: 3649380256734017498, guid: 460656ad2dbb89c44b4cc1376df69523, type: 3}
+  unitIcon: {fileID: 2198692659519124477, guid: 368873e8abe609549a14a5d6aedefbf3, type: 3}
+  townIcon: {fileID: 21300000, guid: 6aedafdc1ed76a04e9ed0c71a8a5377b, type: 3}
+  isTropicalNatives: 0

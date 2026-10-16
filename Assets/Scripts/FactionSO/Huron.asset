@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Huron
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 10
+  isEuropean: 0
+  flagIcon: {fileID: 3495531096957081892, guid: 809e9dcb6aa53f54f860a9f91bb3d38d, type: 3}
+  shieldIcon: {fileID: 3495531096957081892, guid: 809e9dcb6aa53f54f860a9f91bb3d38d, type: 3}
+  unitIcon: {fileID: 8841447568289100737, guid: 411fda199b87a884aa958956ab116693, type: 3}
+  townIcon: {fileID: 21300000, guid: 30d152250f987a042a1ff732ba9f9acf, type: 3}
+  isTropicalNatives: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 429d88d3deb48ff488420610fa895bd1, type: 3}
+  m_Name: Sioux
+  m_EditorClassIdentifier: Assembly-CSharp::FactionData
+  nation: 5
+  isEuropean: 0
+  flagIcon: {fileID: 687278591817491905, guid: faa28b841ec709345b72033c3421bd7c, type: 3}
+  shieldIcon: {fileID: 687278591817491905, guid: faa28b841ec709345b72033c3421bd7c, type: 3}
+  unitIcon: {fileID: -8367297176999860124, guid: c7113d7a11e15e349908b0313852e1f8, type: 3}
+  townIcon: {fileID: 21300000, guid: f7a1671181566a74caa97105be831040, type: 3}
+  isTropicalNatives: 0
